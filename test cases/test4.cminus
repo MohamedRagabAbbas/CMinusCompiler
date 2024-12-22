@@ -1,0 +1,10 @@
+Program whileLoopTest {
+    int count;
+    int sum;
+    count = 0;
+    sum = 0;
+    while (count < 5) {
+        sum = sum + count;
+        count = count + 1;
+    }
+}

@@ -1,0 +1,10 @@
+Program ArrayTest {
+    int numbers[5];
+    float values[3];
+    
+    numbers[0] = 100;
+    numbers[4] = numbers[0] + 50;
+    
+    values[1] = 25.5;
+    values[2] = values[1] * 2.0;
+}

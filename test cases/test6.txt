@@ -1,0 +1,5 @@
+Progra cal {
+    int m = 10;
+    int b = 15;
+    int c = m + b
+}

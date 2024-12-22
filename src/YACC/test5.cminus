@@ -1,0 +1,13 @@
+Program BraceErrorTest {
+    int a;
+    float b;
+    
+    a = 10;
+    b = 20.5;
+    
+    if (a < b) {
+        a = a + 1;
+    else {
+        b = b - 1.0;
+    }
+}

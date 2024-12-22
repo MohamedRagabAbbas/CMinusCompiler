@@ -1,0 +1,6 @@
+Program myProg {
+    int x;
+    float y;
+    x = 10;
+    y = x + 20.5;
+}

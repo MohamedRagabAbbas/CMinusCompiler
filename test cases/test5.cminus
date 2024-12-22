@@ -1,0 +1,7 @@
+Program typeMismatch {
+    int x;
+    float y;
+    x = 10;
+    y = 20.5;
+    x = x + y;
+}

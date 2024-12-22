@@ -1,0 +1,5 @@
+Program multiVarDecl {
+    int a, b[10], c;
+    float d;
+    a = b[5] + c * d;
+}

@@ -1,0 +1,7 @@
+Program redeclarationTest {
+    int x;
+    int y;
+    int x; // Redeclaration of 'x'
+    x = 5;
+    y = 10;
+}
