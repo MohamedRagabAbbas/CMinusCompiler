@@ -17,7 +17,7 @@ This project is a compiler for a C-like language, built from scratch using two a
 To run this compiler, clone the repository and compile the source files using a C compiler that supports YACC (like GNU Bison).
 
 ```bash
-git clone https://github.com/your-username/CMinusCompiler.git
+git clone https://github.com/MohamedRagabAbbas/CMinusCompiler.git
 cd CMinusCompiler
 make
 ./compiler your_program.cm
